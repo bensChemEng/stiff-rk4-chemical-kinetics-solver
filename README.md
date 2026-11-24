@@ -1,3 +1,5 @@
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+
 # RK4 Numerical Solver for Stiff and non-Stiff Chemical Kinetics ODEs
 
 ## Overview
